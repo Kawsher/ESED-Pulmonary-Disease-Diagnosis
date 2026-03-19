@@ -208,8 +208,7 @@ This project is licensed under the MIT License.
 ## Contact
 
 **MK Mahbub**  
-PhD Student, University of Alabama  
-Email: [your email]  
+Email: kawsher.cse@gmail.com 
 Kaggle: https://kaggle.com/mdkawshermahbub
 ```
 
