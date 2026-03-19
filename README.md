@@ -14,8 +14,7 @@ architecturally diverse convolutional neural networks as base
 learners with an XGBoost meta-learner, augmented by comprehensive 
 explainability analysis through Grad-CAM, SHAP, and LIME.
 
-**Target Journal:** Engineering Applications of Artificial 
-Intelligence (EAAI) — Q1, IF~8.9
+**Status:** Under review at a peer-reviewed Q1 journal (2026)
 
 ---
 
@@ -122,7 +121,7 @@ joblib
 ## Reproduction
 
 ### Option 1 — Kaggle Notebook (Recommended)
-1. Go to: [Kaggle Notebook URL]
+1. Go to: https://www.kaggle.com/code/mdkawshermahbub/esed-pulmonary-xai
 2. Fork the notebook
 3. Add datasets:
    - `mdkawshermahbub/pulmonary-merged-data`
